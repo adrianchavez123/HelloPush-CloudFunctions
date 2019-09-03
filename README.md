@@ -1,6 +1,6 @@
 # HelloPush-CloudFunctions - Sample app for IBM Cloud functions Push Notification package
 
-This helloPush sample contains a IBM cloud functions project that you can use to learn more about the IBM Cloud Push Notification Service.
+This helloPush sample contains an IBM cloud functions project that you can use to learn more about the IBM Cloud Push Notification Service.
 
 
 ## Contents
